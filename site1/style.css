@@ -1,0 +1,22 @@
+
+		div {color: red;}
+  		p.p1 {color: green; 
+  		     font-size: 40px;}
+  		 
+  		#top {color: purple;}
+  		.pops {color: black; font-size: 38px;}
+  		article>section>p.p3 {background-color:               }
+  		article h2 {background-color:                         }
+  		article+p {background-color:                   ; color: red;}
+  		section>p {cursor:pointer;}
+  		.google {text-align: center; margin-left: 550px}
+  		.google :link {text-decoration: none; background-color: green; display: block; width: 200px}
+  		.google :hover  {background-color: red; color: yellow;}
+  		ol>li:nth-child(3) {background-color:                   ;}
+  		body{background-color: #d9ffb3; font-family: Arial, Helvetica, sans-serif;background-image: url(img/1.jpeg);
+  						background-repeat: no-repeat; background-attachment: fixed; background-size: 100% 100%;
+  						 }
+  		#pred :link {text-decoration: none; display: block;background-color: #ff99ff; text-align: center;
+  						color: black;width: 200px;margin-left: 550px; }
+  		#pred :hover {background-color: #1aa3ff; color: white; }				
+  		* {color: white !important}
